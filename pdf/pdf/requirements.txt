@@ -1,0 +1,14 @@
+asgiref==3.7.2
+cffi==1.16.0
+clr-loader==0.2.6
+Django==5.0.2
+IronPdf==2024.2.1.2
+packaging==23.2
+pdf2image==1.17.0
+pillow==10.2.0
+pycparser==2.21
+PyPDF2==3.0.1
+pytesseract==0.3.10
+pythonnet==3.0.3
+sqlparse==0.4.4
+tzdata==2024.1
